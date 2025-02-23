@@ -1,2 +1,14 @@
-# Ch-1---W3-schools-review---Variables-Names-1.1
-Ch-1---W3-schools-review---Variables-Names
+myvar = "Kai"
+my_var = "Coca cola"
+_my_var = "last resort"
+myVar = "I have the high ground"
+MYVAR = "Jay"
+myvar2 = "Jan"
+
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
